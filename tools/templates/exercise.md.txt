@@ -1,0 +1,17 @@
+# Exercise $EXERCISE_NUMBER
+## Questions & Answers
+
+__Q:__ _Insert question here..._
+
+__A:__ _Insert answer here..._
+
+## Shell Script Output
+
+```bash
+# Run from the Lesson $LESSON_NUMBER exercises directory (./syllabus/$LESSON_NAME/exercises)
+bash ./scripts/$EXERCISE_NUMBER.sh
+```
+```output
+Insert script output here...
+
+```
